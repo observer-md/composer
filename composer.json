@@ -1,0 +1,18 @@
+{
+    "name": "observer-md/querybuilder",
+    "description": "DB Query Builder",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Super Bitch",
+            "email": "super.bitch@bitch.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ObserverMd\\QueryBuilder\\": "src/"
+        }
+    }
+
+}
